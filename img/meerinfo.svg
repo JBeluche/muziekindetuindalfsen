@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="244" height="71" viewBox="0 0 244 71">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-meerinfo);
+      }
+
+      .cls-2 {
+        fill: #f2654a;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill: #fef8e7;
+      }
+
+      .cls-3 {
+        font-size: 23px;
+      }
+
+      .cls-3, .cls-4 {
+        font-family: AlphaEcho, Alpha Echo;
+      }
+
+      .cls-4 {
+        font-size: 16px;
+      }
+
+      .cls-6 {
+        filter: url(#Path_14569);
+      }
+    </style>
+    <filter id="Path_14569" x="-3" y="-19" width="246.352" height="87.865" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-meerinfo">
+      <rect width="244" height="71"/>
+    </clipPath>
+  </defs>
+  <g id="meerinfo" class="cls-1">
+    <g id="Group_3823" data-name="Group 3823" transform="matrix(-0.997, -0.082, 0.082, -0.997, 233.134, 63.865)">
+      <g class="cls-6" transform="matrix(-1, 0.08, -0.08, -1, 237.58, 44.54)">
+        <path id="Path_14569-2" data-name="Path 14569" class="cls-2" d="M9.621,0H233.3l3.634,44.172L0,63.658Z" transform="matrix(-1, -0.08, 0.08, -1, 233.13, 63.86)"/>
+      </g>
+    </g>
+    <g id="Group_4054" data-name="Group 4054" transform="translate(0 -0.45)">
+      <text id="Meer_info" data-name="Meer info" class="cls-3" transform="translate(51 28.45)"><tspan x="0" y="0">Meer info</tspan></text>
+      <text id="Klik_hier" data-name="Klik hier" class="cls-4" transform="translate(96 41)"><tspan x="0" y="0">Klik hier</tspan></text>
+    </g>
+    <g id="Group_4050" data-name="Group 4050" transform="translate(-18520.641 2589.438)">
+      <path id="Path_14789" data-name="Path 14789" class="cls-5" d="M336.586-786.887a14.75,14.75,0,0,1-13.252-5.895,10.444,10.444,0,0,1-2.012-6.64c.146-2.536,1.63-4.875,3.123-6.851,4.021-5.321,11.329-8.439,17.295-4.49,4.577,3.348,7.561,9.2,5.942,14.9C346.291-790.966,341.563-787.432,336.586-786.887Zm11.144-22.789a15.812,15.812,0,0,0-14.541-5.1c-10.914,1.75-19.274,14.49-12.044,24.35a13.667,13.667,0,0,0,2.887,2.93c.716.529.785.452.481,1.243a24.457,24.457,0,0,1-1.375,2.531c-1.829,3.432-3.813,6.812-5.555,10.285a1.008,1.008,0,0,0,.154,1.2,17.781,17.781,0,0,0,3.409,1.865,1,1,0,0,0,1.349-.354,136.092,136.092,0,0,1,6.735-13.2c3.319,1.732,8.344.572,11.487-.778A19.054,19.054,0,0,0,350.429-794C352.821-799.6,351.621-805.041,347.73-809.676Z" transform="translate(18387 -1767)"/>
+      <path id="Path_14790" data-name="Path 14790" class="cls-5" d="M345.366-803.885c-5.666,2.016-15.134,10.544-9.607,17,.827.966,2.216-.435,1.395-1.395-2.314-2.7-.016-6.68,1.866-8.943a15.763,15.763,0,0,1,6.87-4.759C347.077-802.406,346.566-804.312,345.366-803.885Z" transform="translate(18376.26 -1774.13)"/>
+      <path id="Path_14791" data-name="Path 14791" class="cls-5" d="M347.908-752.007c-.118-.035-.235-.073-.35-.118-.026-.015-.188-.09-.211-.1q-.157-.083-.306-.178c-.057-.036-.113-.074-.167-.114.064.054.05.044-.041-.032a1.011,1.011,0,0,0-1.395,0,1,1,0,0,0,0,1.395,5.563,5.563,0,0,0,1.946,1.052,1,1,0,0,0,1.213-.689A1.006,1.006,0,0,0,347.908-752.007Z" transform="translate(18369.115 -1807.14)"/>
+    </g>
+  </g>
+</svg>

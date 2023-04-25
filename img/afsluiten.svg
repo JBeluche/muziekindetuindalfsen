@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="244" height="71" viewBox="0 0 244 71">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-afsluiten);
+      }
+
+      .cls-2 {
+        fill: #cc353d;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill: #fef8e7;
+      }
+
+      .cls-4 {
+        font-size: 23px;
+      }
+
+      .cls-4, .cls-5 {
+        font-family: AlphaEcho, Alpha Echo;
+      }
+
+      .cls-5 {
+        font-size: 16px;
+      }
+
+      .cls-6 {
+        filter: url(#Path_14569);
+      }
+    </style>
+    <filter id="Path_14569" x="-3" y="-19" width="246.352" height="87.865" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-afsluiten">
+      <rect width="244" height="71"/>
+    </clipPath>
+  </defs>
+  <g id="afsluiten" class="cls-1">
+    <g id="Group_3823" data-name="Group 3823" transform="matrix(-0.997, -0.082, 0.082, -0.997, 233.134, 63.865)">
+      <g class="cls-6" transform="matrix(-1, 0.08, -0.08, -1, 237.58, 44.54)">
+        <path id="Path_14569-2" data-name="Path 14569" class="cls-2" d="M9.621,0H233.3l3.634,44.172L0,63.658Z" transform="matrix(-1, -0.08, 0.08, -1, 233.13, 63.86)"/>
+      </g>
+    </g>
+    <g id="Group_4052" data-name="Group 4052" transform="translate(20174.119 -1670.756) rotate(180)">
+      <path id="Path_14857" data-name="Path 14857" class="cls-3" d="M79.48-68.394h32.089a1.032,1.032,0,0,1,1.025.966l.412,6.842,15.651-16.948L112.782-90.426v4.752a1.027,1.027,0,0,1-1.013,1.028l-32.111.436L85.97-77.6a1.025,1.025,0,0,1,.044,1.365Zm32.646,11.3-.345-.059a1.036,1.036,0,0,1-.68-.907l-.5-8.282H77.287a1.032,1.032,0,0,1-.932-.592,1.03,1.03,0,0,1,.143-1.094l7.352-8.824L76.545-84.5a1.021,1.021,0,0,1-.2-1.107,1.02,1.02,0,0,1,.932-.631l33.454-.453v-5.9a1.022,1.022,0,0,1,.587-.927,1.019,1.019,0,0,1,1.087.128l18.4,14.946a1.034,1.034,0,0,1,.38.725,1.036,1.036,0,0,1-.271.769L112.883-57.42A1.031,1.031,0,0,1,112.126-57.09Z" transform="translate(19876.838 -1623.549)"/>
+      <path id="Path_14858" data-name="Path 14858" class="cls-3" d="M103.868-86.671H82.479A1.027,1.027,0,0,1,81.451-87.7a1.027,1.027,0,0,1,1.028-1.028h21.389A1.026,1.026,0,0,1,104.9-87.7,1.025,1.025,0,0,1,103.868-86.671Z" transform="translate(19884.443 -1616.388)"/>
+      <path id="Path_14859" data-name="Path 14859" class="cls-3" d="M100.357-81.908a1.025,1.025,0,0,1-.67-.249l-7.131-6.164a1.029,1.029,0,0,1-.106-1.449,1.032,1.032,0,0,1,1.452-.106l7.131,6.167a1.024,1.024,0,0,1,.1,1.447A1.019,1.019,0,0,1,100.357-81.908Z" transform="translate(19900.189 -1618.442)"/>
+    </g>
+    <g id="Group_4053" data-name="Group 4053" transform="translate(12 0.5)">
+      <text id="afsluiten-2" data-name="afsluiten" class="cls-4" transform="translate(27.482 27.5)"><tspan x="0" y="0">afsluiten</tspan></text>
+      <text id="Terug" class="cls-5" transform="translate(92.482 41)"><tspan x="0" y="0">Terug</tspan></text>
+    </g>
+  </g>
+</svg>

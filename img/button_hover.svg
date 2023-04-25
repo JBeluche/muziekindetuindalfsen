@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="244" height="71" viewBox="0 0 244 71">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Button_1);
+      }
+
+      .cls-2 {
+        fill: #d85840;
+      }
+
+      .cls-3 {
+        filter: url(#Path_14569);
+      }
+    </style>
+    <filter id="Path_14569" x="-3" y="-18" width="246.352" height="87.865" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Button_1">
+      <rect width="244" height="71"/>
+    </clipPath>
+  </defs>
+  <g id="Button_1" data-name="Button – 1" class="cls-1">
+    <g class="cls-3" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <path id="Path_14569-2" data-name="Path 14569" class="cls-2" d="M9.621,0H233.3l3.634,44.172L0,63.658Z" transform="matrix(-1, -0.08, 0.08, -1, 233.13, 64.86)"/>
+    </g>
+  </g>
+</svg>
